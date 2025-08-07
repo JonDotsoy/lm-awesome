@@ -4,13 +4,17 @@ A curated collection of links, repositories, and tools for Large Models (LM). Cr
 
 ## 🛠️ AI Tools
 
-| Tool      | Description                                           | Link                  | Category    |
-| --------- | ----------------------------------------------------- | --------------------- | ----------- |
-| LM Studio | AI development studio                                 | [LM Studio][lmstudio] | Development |
-| ChatGPT   | Conversational AI assistant                           | [ChatGPT][chatgpt]    | Chatbot     |
-| Cline     | Open-source code editor similar to Visual Studio Code | [Cline][cline]        | Code Editor |
-| Kiro.dev  | AI-powered development environment                    | [Kiro.dev][kirodev]   | Development |
-| Claude    | AI assistant by Anthropic                             | [Claude][claude]      | Chatbot     |
+| Tool           | Description                                                                                                                                            | Link                                               | Category         |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------- | ---------------- |
+| LM Studio      | AI development studio                                                                                                                                  | [LM Studio][lmstudio]                              | Development      |
+| ChatGPT        | Conversational AI assistant                                                                                                                            | [ChatGPT][chatgpt]                                 | Chatbot          |
+| Cline          | Open-source code editor similar to Visual Studio Code                                                                                                  | [Cline][cline]                                     | Code Editor      |
+| Kiro.dev       | AI-powered development environment                                                                                                                     | [Kiro.dev][kirodev]                                | Development      |
+| Claude         | AI assistant by Anthropic                                                                                                                              | [Claude][claude]                                   | Chatbot          |
+| GitHub Copilot | AI-powered coding assistant for VS Code. Provides code completions, autonomous coding, natural language chat, and smart actions to boost productivity. | [GitHub Copilot in VS Code][github-copilot-vscode] | Coding Assistant |
+| Claude Code    | Command-line AI coding assistant by Anthropic. Deep codebase awareness, agentic search, multi-file edits, and IDE integration.                         | [Claude Code][claude-code]                         | Coding Assistant |
+| OpenAI Codex   | Cloud-based and CLI coding agent by OpenAI. Automates code tasks, answers questions, runs tests, and proposes PRs.                                     | [OpenAI Codex][openai-codex]                       | Coding Assistant |
+| Ollama         | Cross-platform app for running, chatting with, and building open-source AI models locally.                                                             | [Ollama][ollama]                                   | Development      |
 
 ## 🤖 AI Models
 
@@ -71,3 +75,7 @@ Contributions are welcome! Please feel free to submit a Pull Request to add new 
 [github-mcp-docs]: https://docs.github.com/en/copilot/how-tos/provide-context/use-mcp/use-the-github-mcp-server
 [atlassian-mcp-docs]: https://support.atlassian.com/rovo/docs/getting-started-with-the-atlassian-remote-mcp-server/
 [openrouter-anthropic-pricing]: https://openrouter.ai/anthropic
+[github-copilot-vscode]: https://code.visualstudio.com/docs/copilot/overview
+[claude-code]: https://www.anthropic.com/claude-code
+[openai-codex]: https://openai.com/codex/
+[ollama]: https://ollama.com/
