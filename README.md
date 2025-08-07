@@ -62,7 +62,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request to add new tools, models, or improve the existing content.
+Contributions are welcome! Please read our [Contributing Guide](CONTRIBUTING.md) for detailed instructions on how to contribute, including how to use VS Code prompts, formatting requirements, and submission guidelines.
+
+Feel free to submit a Pull Request to add new tools, models, or improve the existing content.
 
 <!-- Footnotes for links -->
 
