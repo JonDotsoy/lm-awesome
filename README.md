@@ -4,17 +4,18 @@ A curated collection of links, repositories, and tools for Large Models (LM). Cr
 
 ## 🛠️ AI Tools
 
-| Tool           | Description                                                                                                                                            | Link                                               | Category         |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------- | ---------------- |
-| LM Studio      | AI development studio                                                                                                                                  | [LM Studio][lmstudio]                              | Development      |
-| ChatGPT        | Conversational AI assistant                                                                                                                            | [ChatGPT][chatgpt]                                 | Chatbot          |
-| Cline          | Open-source code editor similar to Visual Studio Code                                                                                                  | [Cline][cline]                                     | Code Editor      |
-| Kiro.dev       | AI-powered development environment                                                                                                                     | [Kiro.dev][kirodev]                                | Development      |
-| Claude         | AI assistant by Anthropic                                                                                                                              | [Claude][claude]                                   | Chatbot          |
-| GitHub Copilot | AI-powered coding assistant for VS Code. Provides code completions, autonomous coding, natural language chat, and smart actions to boost productivity. | [GitHub Copilot in VS Code][github-copilot-vscode] | Coding Assistant |
-| Claude Code    | Command-line AI coding assistant by Anthropic. Deep codebase awareness, agentic search, multi-file edits, and IDE integration.                         | [Claude Code][claude-code]                         | Coding Assistant |
-| OpenAI Codex   | Cloud-based and CLI coding agent by OpenAI. Automates code tasks, answers questions, runs tests, and proposes PRs.                                     | [OpenAI Codex][openai-codex]                       | Coding Assistant |
-| Ollama         | Cross-platform app for running, chatting with, and building open-source AI models locally.                                                             | [Ollama][ollama]                                   | Development      |
+| Tool            | Description                                                                                                                                            | Link                                               | Category         |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------- | ---------------- |
+| LM Studio       | AI development studio                                                                                                                                  | [LM Studio][lmstudio]                              | Development      |
+| ChatGPT         | Conversational AI assistant                                                                                                                            | [ChatGPT][chatgpt]                                 | Chatbot          |
+| Cline           | Open-source code editor similar to Visual Studio Code                                                                                                  | [Cline][cline]                                     | Code Editor      |
+| Kiro.dev        | AI-powered development environment                                                                                                                     | [Kiro.dev][kirodev]                                | Development      |
+| Claude          | AI assistant by Anthropic                                                                                                                              | [Claude][claude]                                   | Chatbot          |
+| GitHub Copilot  | AI-powered coding assistant for VS Code. Provides code completions, autonomous coding, natural language chat, and smart actions to boost productivity. | [GitHub Copilot in VS Code][github-copilot-vscode] | Coding Assistant |
+| Claude Code     | Command-line AI coding assistant by Anthropic. Deep codebase awareness, agentic search, multi-file edits, and IDE integration.                         | [Claude Code][claude-code]                         | Coding Assistant |
+| OpenAI Codex    | Cloud-based and CLI coding agent by OpenAI. Automates code tasks, answers questions, runs tests, and proposes PRs.                                     | [OpenAI Codex][openai-codex]                       | Coding Assistant |
+| Ollama          | Cross-platform app for running, chatting with, and building open-source AI models locally.                                                             | [Ollama][ollama]                                   | Development      |
+| Windsurf Editor | Agentic AI-powered IDE with deep codebase awareness, live previews, MCP support, and natural language actions.                                         | [Windsurf Editor][windsurf]                        | Code Editor      |
 
 ## 🤖 AI Models
 
@@ -82,6 +83,7 @@ Contributions are welcome! Please feel free to submit a Pull Request to add new 
 [claude-code]: https://www.anthropic.com/claude-code
 [openai-codex]: https://openai.com/codex/
 [ollama]: https://ollama.com/
+[windsurf]: https://windsurf.com/editor
 [sentry-mcp-gh]: https://github.com/getsentry/sentry-mcp
 [markitdown-mcp-gh]: https://github.com/microsoft/markitdown/tree/main/packages/markitdown-mcp
 [notion-mcp-gh]: https://github.com/makenotion/notion-mcp-server
