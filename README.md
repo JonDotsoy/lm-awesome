@@ -14,12 +14,16 @@ A curated collection of links, repositories, and tools for Large Models (LM). Cr
 
 ## 🤖 AI Models
 
-| Model               | Provider  | Price                                            | Date Updated   |
-| ------------------- | --------- | ------------------------------------------------ | -------------- |
-| Claude Sonnet 3.5   | Anthropic | $3 per 1M input tokens, $15 per 1M output tokens | August 7, 2025 |
-| Claude Sonnet 3.7   | Anthropic | TBA                                              | August 7, 2025 |
-| Claude Sonnet 4     | Anthropic | TBA                                              | August 7, 2025 |
-| Claude Sonnet 4 Pro | Anthropic | TBA                                              | August 7, 2025 |
+| Model             | Provider  | Input Price   | Output Price  | Link                                       | Date Updated |
+| ----------------- | --------- | ------------- | ------------- | ------------------------------------------ | ------------ |
+| Claude Opus 4.1   | Anthropic | $15/MTok      | $75/MTok      | [Anthropic Pricing][anthropic-api-pricing] | 2025-08-07   |
+| Claude Sonnet 4   | Anthropic | $3/MTok       | $15/MTok      | [Anthropic Pricing][anthropic-api-pricing] | 2025-08-07   |
+| Claude Haiku 3.5  | Anthropic | $0.80/MTok    | $4/MTok       | [Anthropic Pricing][anthropic-api-pricing] | 2025-08-07   |
+| GPT-4 Turbo       | OpenAI    | $0.01/1Ktok   | $0.03/1Ktok   | [OpenAI Pricing][openai-api-pricing]       | 2025-08-07   |
+| GPT-4             | OpenAI    | $0.03/1Ktok   | $0.06/1Ktok   | [OpenAI Pricing][openai-api-pricing]       | 2025-08-07   |
+| GPT-4-32k         | OpenAI    | $0.06/1Ktok   | $0.12/1Ktok   | [OpenAI Pricing][openai-api-pricing]       | 2025-08-07   |
+| GPT-3.5 Turbo     | OpenAI    | $0.0005/1Ktok | $0.0015/1Ktok | [OpenAI Pricing][openai-api-pricing]       | 2025-08-07   |
+| GPT-3.5 Turbo-16k | OpenAI    | $0.001/1Ktok  | $0.002/1Ktok  | [OpenAI Pricing][openai-api-pricing]       | 2025-08-07   |
 
 ## 📝 Prompts
 
@@ -27,11 +31,11 @@ _This section will contain a database of reusable prompts for various AI tasks._
 
 ## 🔧 MCP (Model Context Protocol) Tools
 
-| Tool           | Description                                             | Link                             | Use Case           |
-| -------------- | ------------------------------------------------------- | -------------------------------- | ------------------ |
-| GitHub MCP     | GitHub integration for repository management            | [GitHub MCP][github-mcp]         | Code Management    |
-| Atlassian MCP  | Atlassian integration for ticket and project management | [Atlassian MCP][atlassian-mcp]   | Project Management |
-| Playwright MCP | Browser automation and web interaction                  | [Playwright MCP][playwright-mcp] | Web Automation     |
+| Tool                        | Description                                                                                                                                                                                                                                                     | Link                                                   | Use Case           |
+| --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------------ |
+| Playwright MCP              | Fast, lightweight MCP server for browser automation using Playwright. Operates on structured accessibility data, supports deterministic tool application, tab management, and PDF generation.                                                                   | [Playwright MCP][playwright-mcp-gh]                    | Web Automation     |
+| GitHub MCP                  | Official MCP server by GitHub. Enables Copilot Chat and other MCP-compatible editors to perform context-aware actions on GitHub, such as creating issues, listing pull requests, and more. Supports remote (OAuth/PAT) and local (Docker) setups.               | [GitHub MCP Server Docs][github-mcp-docs]              | Code Management    |
+| Atlassian Remote MCP Server | Cloud-based bridge for integrating Jira and Confluence with MCP-compatible clients. Enables real-time search, creation, and updates of issues and pages using natural language commands. Supports secure OAuth 2.0 authorization and respects user permissions. | [Atlassian Remote MCP Server Docs][atlassian-mcp-docs] | Project Management |
 
 ## 📄 License
 
@@ -50,6 +54,8 @@ Contributions are welcome! Please feel free to submit a Pull Request to add new 
 [cline]: http://cline.bot
 [kirodev]: https://kiro.dev
 [claude]: https://claude.ai
-[github-mcp]: https://github.com/modelcontextprotocol/servers/tree/main/src/github
-[atlassian-mcp]: https://github.com/modelcontextprotocol/servers/tree/main/src/atlassian
-[playwright-mcp]: https://github.com/modelcontextprotocol/servers/tree/main/src/playwright
+[playwright-mcp-gh]: https://github.com/microsoft/playwright-mcp
+[anthropic-api-pricing]: https://www.anthropic.com/pricing#api
+[openai-api-pricing]: https://platform.openai.com/docs/pricing
+[github-mcp-docs]: https://docs.github.com/en/copilot/how-tos/provide-context/use-mcp/use-the-github-mcp-server
+[atlassian-mcp-docs]: https://support.atlassian.com/rovo/docs/getting-started-with-the-atlassian-remote-mcp-server/
