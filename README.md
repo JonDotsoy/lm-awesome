@@ -64,8 +64,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Contributions are welcome! Please feel free to submit a Pull Request to add new tools, models, or improve the existing content.
 
----
-
 <!-- Footnotes for links -->
 
 [lmstudio]: https://lmstudio.ai/
