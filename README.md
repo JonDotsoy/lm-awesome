@@ -14,16 +14,27 @@ A curated collection of links, repositories, and tools for Large Models (LM). Cr
 
 ## 🤖 AI Models
 
-| Model             | Provider  | Input Price   | Output Price  | Link                                       | Date Updated |
-| ----------------- | --------- | ------------- | ------------- | ------------------------------------------ | ------------ |
-| Claude Opus 4.1   | Anthropic | $15/MTok      | $75/MTok      | [Anthropic Pricing][anthropic-api-pricing] | 2025-08-07   |
-| Claude Sonnet 4   | Anthropic | $3/MTok       | $15/MTok      | [Anthropic Pricing][anthropic-api-pricing] | 2025-08-07   |
-| Claude Haiku 3.5  | Anthropic | $0.80/MTok    | $4/MTok       | [Anthropic Pricing][anthropic-api-pricing] | 2025-08-07   |
-| GPT-4 Turbo       | OpenAI    | $0.01/1Ktok   | $0.03/1Ktok   | [OpenAI Pricing][openai-api-pricing]       | 2025-08-07   |
-| GPT-4             | OpenAI    | $0.03/1Ktok   | $0.06/1Ktok   | [OpenAI Pricing][openai-api-pricing]       | 2025-08-07   |
-| GPT-4-32k         | OpenAI    | $0.06/1Ktok   | $0.12/1Ktok   | [OpenAI Pricing][openai-api-pricing]       | 2025-08-07   |
-| GPT-3.5 Turbo     | OpenAI    | $0.0005/1Ktok | $0.0015/1Ktok | [OpenAI Pricing][openai-api-pricing]       | 2025-08-07   |
-| GPT-3.5 Turbo-16k | OpenAI    | $0.001/1Ktok  | $0.002/1Ktok  | [OpenAI Pricing][openai-api-pricing]       | 2025-08-07   |
+| Model                          | Provider             | Input Price   | Output Price  | Link                                                         | Date Updated |
+| ------------------------------ | -------------------- | ------------- | ------------- | ------------------------------------------------------------ | ------------ |
+| Claude Opus 4.1                | Anthropic            | $15/MTok      | $75/MTok      | [Anthropic Pricing][anthropic-api-pricing]                   | 2025-08-07   |
+| Claude Sonnet 4                | Anthropic            | $3/MTok       | $15/MTok      | [Anthropic Pricing][anthropic-api-pricing]                   | 2025-08-07   |
+| Claude Haiku 3.5               | Anthropic            | $0.80/MTok    | $4/MTok       | [Anthropic Pricing][anthropic-api-pricing]                   | 2025-08-07   |
+| GPT-4 Turbo                    | OpenAI               | $0.01/1Ktok   | $0.03/1Ktok   | [OpenAI Pricing][openai-api-pricing]                         | 2025-08-07   |
+| GPT-4                          | OpenAI               | $0.03/1Ktok   | $0.06/1Ktok   | [OpenAI Pricing][openai-api-pricing]                         | 2025-08-07   |
+| GPT-4-32k                      | OpenAI               | $0.06/1Ktok   | $0.12/1Ktok   | [OpenAI Pricing][openai-api-pricing]                         | 2025-08-07   |
+| GPT-3.5 Turbo                  | OpenAI               | $0.0005/1Ktok | $0.0015/1Ktok | [OpenAI Pricing][openai-api-pricing]                         | 2025-08-07   |
+| GPT-3.5 Turbo-16k              | OpenAI               | $0.001/1Ktok  | $0.002/1Ktok  | [OpenAI Pricing][openai-api-pricing]                         | 2025-08-07   |
+| Claude Opus 4.1                | OpenRouter:Anthropic | $15/MTok      | $75/MTok      | [OpenRouter Anthropic Pricing][openrouter-anthropic-pricing] | 2025-08-07   |
+| Claude Opus 4                  | OpenRouter:Anthropic | $15/MTok      | $75/MTok      | [OpenRouter Anthropic Pricing][openrouter-anthropic-pricing] | 2025-08-07   |
+| Claude Sonnet 4                | OpenRouter:Anthropic | $3/MTok       | $15/MTok      | [OpenRouter Anthropic Pricing][openrouter-anthropic-pricing] | 2025-08-07   |
+| Claude 3.7 Sonnet              | OpenRouter:Anthropic | $3/MTok       | $15/MTok      | [OpenRouter Anthropic Pricing][openrouter-anthropic-pricing] | 2025-08-07   |
+| Claude 3.5 Haiku               | OpenRouter:Anthropic | $0.80/MTok    | $4/MTok       | [OpenRouter Anthropic Pricing][openrouter-anthropic-pricing] | 2025-08-07   |
+| Claude 3.5 Haiku (2024-10-22)  | OpenRouter:Anthropic | $0.80/MTok    | $4/MTok       | [OpenRouter Anthropic Pricing][openrouter-anthropic-pricing] | 2025-08-07   |
+| Claude 3.5 Sonnet              | OpenRouter:Anthropic | $3/MTok       | $15/MTok      | [OpenRouter Anthropic Pricing][openrouter-anthropic-pricing] | 2025-08-07   |
+| Claude 3.5 Sonnet (2024-06-20) | OpenRouter:Anthropic | $3/MTok       | $15/MTok      | [OpenRouter Anthropic Pricing][openrouter-anthropic-pricing] | 2025-08-07   |
+| Claude 3 Haiku                 | OpenRouter:Anthropic | $0.25/MTok    | $1.25/MTok    | [OpenRouter Anthropic Pricing][openrouter-anthropic-pricing] | 2025-08-07   |
+| Claude 3 Sonnet                | OpenRouter:Anthropic | N/A           | N/A           | [OpenRouter Anthropic Pricing][openrouter-anthropic-pricing] | 2025-08-07   |
+| Claude 3 Opus                  | OpenRouter:Anthropic | $15/MTok      | $75/MTok      | [OpenRouter Anthropic Pricing][openrouter-anthropic-pricing] | 2025-08-07   |
 
 ## 📝 Prompts
 
@@ -59,3 +70,4 @@ Contributions are welcome! Please feel free to submit a Pull Request to add new 
 [openai-api-pricing]: https://platform.openai.com/docs/pricing
 [github-mcp-docs]: https://docs.github.com/en/copilot/how-tos/provide-context/use-mcp/use-the-github-mcp-server
 [atlassian-mcp-docs]: https://support.atlassian.com/rovo/docs/getting-started-with-the-atlassian-remote-mcp-server/
+[openrouter-anthropic-pricing]: https://openrouter.ai/anthropic
