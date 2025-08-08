@@ -47,9 +47,10 @@ _This section will contain a database of reusable prompts for various AI tasks._
 
 ## 📊 Comparative Sites
 
-| Site     | Description                                                                                         | Link                | Focus              |
-| -------- | --------------------------------------------------------------------------------------------------- | ------------------- | ------------------ |
-| LM Arena | Collaborative evaluation platform for language models through human preference voting and rankings. | [LM Arena][lmarena] | Model Benchmarking |
+| Site      | Description                                                                                          | Link                  | Focus              |
+| --------- | ---------------------------------------------------------------------------------------------------- | --------------------- | ------------------ |
+| LM Arena  | Collaborative evaluation platform for language models through human preference voting and rankings.  | [LM Arena][lmarena]   | Model Benchmarking |
+| ARC Prize | Leaderboard for artificial general intelligence systems measuring fluid intelligence and efficiency. | [ARC Prize][arcprize] | AGI Benchmarking   |
 
 ## 🔧 MCP (Model Context Protocol) Tools
 
@@ -94,3 +95,4 @@ Feel free to submit a Pull Request to add new tools, models, or improve the exis
 [markitdown-mcp-gh]: https://github.com/microsoft/markitdown/tree/main/packages/markitdown-mcp
 [notion-mcp-gh]: https://github.com/makenotion/notion-mcp-server
 [lmarena]: https://lmarena.ai/leaderboard
+[arcprize]: https://arcprize.org/leaderboard
