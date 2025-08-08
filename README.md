@@ -45,6 +45,12 @@ A curated collection of links, repositories, and tools for Large Models (LM). Cr
 
 _This section will contain a database of reusable prompts for various AI tasks._
 
+## 📊 Comparative Sites
+
+| Site     | Description                                                                                         | Link                | Focus              |
+| -------- | --------------------------------------------------------------------------------------------------- | ------------------- | ------------------ |
+| LM Arena | Collaborative evaluation platform for language models through human preference voting and rankings. | [LM Arena][lmarena] | Model Benchmarking |
+
 ## 🔧 MCP (Model Context Protocol) Tools
 
 | Tool                        | Description                                                                                                                                                                                                                                                     | Link                                                   | Use Case             |
@@ -87,3 +93,4 @@ Feel free to submit a Pull Request to add new tools, models, or improve the exis
 [sentry-mcp-gh]: https://github.com/getsentry/sentry-mcp
 [markitdown-mcp-gh]: https://github.com/microsoft/markitdown/tree/main/packages/markitdown-mcp
 [notion-mcp-gh]: https://github.com/makenotion/notion-mcp-server
+[lmarena]: https://lmarena.ai/leaderboard
