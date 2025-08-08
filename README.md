@@ -47,10 +47,12 @@ _This section will contain a database of reusable prompts for various AI tasks._
 
 ## 📊 Comparative Sites
 
-| Site      | Description                                                                                          | Link                  | Focus              |
-| --------- | ---------------------------------------------------------------------------------------------------- | --------------------- | ------------------ |
-| LM Arena  | Collaborative evaluation platform for language models through human preference voting and rankings.  | [LM Arena][lmarena]   | Model Benchmarking |
-| ARC Prize | Leaderboard for artificial general intelligence systems measuring fluid intelligence and efficiency. | [ARC Prize][arcprize] | AGI Benchmarking   |
+| Site                 | Description                                                                                            | Link                               | Focus              |
+| -------------------- | ------------------------------------------------------------------------------------------------------ | ---------------------------------- | ------------------ |
+| LM Arena             | Collaborative evaluation platform for language models through human preference voting and rankings.    | [LM Arena][lmarena]                | Model Benchmarking |
+| ARC Prize            | Leaderboard for artificial general intelligence systems measuring fluid intelligence and efficiency.   | [ARC Prize][arcprize]              | AGI Benchmarking   |
+| OpenAI Model Compare | Official OpenAI tool for comparing models, features, and capabilities across their model lineup.       | [OpenAI Compare][openai-compare]   | Model Comparison   |
+| Artificial Analysis  | Independent platform for AI model analysis, benchmarking, and performance comparison across providers. | [Artificial Analysis][artanalysis] | Model Analysis     |
 
 ## 🔧 MCP (Model Context Protocol) Tools
 
@@ -96,3 +98,5 @@ Feel free to submit a Pull Request to add new tools, models, or improve the exis
 [notion-mcp-gh]: https://github.com/makenotion/notion-mcp-server
 [lmarena]: https://lmarena.ai/leaderboard
 [arcprize]: https://arcprize.org/leaderboard
+[openai-compare]: https://platform.openai.com/docs/models/compare?model=gpt-5
+[artanalysis]: https://artificialanalysis.ai/
